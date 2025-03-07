@@ -11,7 +11,7 @@ SweetCrave is an eCommerce website dedicated to satisfying your dessert cravings
 #Tech Stack 🛠️
 Frontend: HTML, CSS (with a cute, cartoon-style theme), JavaScript
 
-Screenshot 
+Screenshot 📸 
 ![Screenshot 2025-03-07 142237](https://github.com/user-attachments/assets/b4c87f1c-c878-4a23-a4db-0deb91c35204)
 
 [Indulge in sweetness at SweetCrave — where every bite is a delight! 😋🍰]
